@@ -1,2 +1,2 @@
-👋, I am Satinder Singh..
-♾️ learn new things day by day...
+👋, I am Satinder Singh..;
+💻, I love coding that is why I choose this path;
