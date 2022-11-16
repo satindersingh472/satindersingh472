@@ -1,4 +1,4 @@
 👋, I am Satinder Singh.
-🖥️ I am learning Full-Stack Web Development.
-🧩 I did started learning to code in 2022 and almost finished my course.
-I have an interest in problem solving, learning new things, coding, eating, cooking and reading
+🖥️ I am a junior full stack web developer.
+🧩 I did start to learn code online in 2022 and realized that I should be coding to make my living and joined Innotech College, where I learned all the things that are needed for full stack development and made myself job ready.
+I have an interest in learning new things and right now I am looking for a job as a junior full stack web developer.
